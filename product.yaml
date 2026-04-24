@@ -1,0 +1,33 @@
+product:
+  id: 101
+  name: "Wireless Mouse"
+  description: "Ergonomic wireless mouse with adjustable DPI."
+  category: "Electronics"
+  brand: "LogiTech"
+  
+  price:
+    currency: "INR"
+    amount: 799
+    discount: 10   # percentage
+
+  stock:
+    available: true
+    quantity: 150
+
+  specifications:
+    color: "Black"
+    connectivity: "Bluetooth"
+    battery_life: "12 months"
+    weight: "85g"
+
+  ratings:
+    average: 4.5
+    total_reviews: 320
+
+  tags:
+    - "electronics"
+    - "accessories"
+    - "wireless"
+
+  created_at: "2026-04-24"
+  updated_at: "2026-04-24"
